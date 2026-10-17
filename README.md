@@ -120,7 +120,7 @@ I'm interested in connecting with developers, startups, researchers, and organiz
 
 **If you're building an AI solution or exploring automation opportunities, let's connect and exchange ideas!**
 
-## 🤔 Where I'd Welcome Help
+##  Where I'd Welcome Help
 
 I'm interested in learning from experienced AI developers and contributing to projects involving:
 
